@@ -1,2 +1,2 @@
 <!--Create the footer without the footer tags-->
-<p>Footer</p>
+<p>Footer test numero dos</p>
